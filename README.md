@@ -31,8 +31,12 @@
 <a href="https://www.sih.gov.in/">
   <img src="https://img.shields.io/badge/🏆_Smart_India_Hackathon_2025-WINNER-FFD700?style=for-the-badge&labelColor=000000" alt="SIH 2025 Winner" />
 </a>
+<br>
+<br>
 
 </div>
+<br>
+<br>
 
 > 🌞 **Selected for Google Summer of Code 2026** to architect **native multi-screen support for Jitsi Meet** — building a secondary-window rendering pipeline with React Portals + a shared Redux store that reuses a single WebRTC session (no duplicate participants, no 2× bandwidth).
 >
@@ -86,47 +90,7 @@ const abhay = {
 <img src="https://img.shields.io/badge/ChromaDB-FFB000?style=for-the-badge&logo=chromatic&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
-**Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,git,github,vercel,postman&theme=dark" />
-
 </div>
-
----
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/codewithabhay10/SIH-Project-Sahay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithabhay10&repo=SIH-Project-Sahay&theme=tokyonight&hide_border=true&border_radius=10" />
-      </a>
-      <p>🏆 <b>SIH 2025 Winner.</b> Multilingual RAG welfare-scheme assistant (Sentence-Transformers → ChromaDB → Gemini) in <b>9 Indian languages</b>, a forged-certificate detection engine, and a PM-AJAY fund-governance portal.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/codewithabhay10/health-chat-nexus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithabhay10&repo=health-chat-nexus&theme=tokyonight&hide_border=true&border_radius=10" />
-      </a>
-      <p>🩺 <b>HealthChat</b> — voice-first multilingual telemedicine platform. TensorFlow intent classifier, Gemini symptom triage, OCR prescription parsing & WebRTC consultations across 28 REST endpoints.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/codewithabhay10/not-cursor-main">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithabhay10&repo=not-cursor-main&theme=tokyonight&hide_border=true&border_radius=10" />
-      </a>
-      <p>🤖 <b>Not Cursor</b> — local AI coding agent. A LangGraph state machine on Ollama (zero API cost) that turns prompts into multi-file Git commits with a human-in-the-loop diff review gate.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/codewithabhay10/jitsi-meet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithabhay10&repo=jitsi-meet&theme=tokyonight&hide_border=true&border_radius=10" />
-      </a>
-      <p>🌞 <b>Jitsi Meet (GSoC 2026)</b> — native multi-screen support. Secondary-window rendering via React Portals + shared Redux store, reusing one WebRTC session with a 4-tier active-speaker tracker.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
