@@ -144,4 +144,9 @@ const abhay = {
 
 </div>
 
+
+<div align="center">
+
 ### ⭐ "Thanks for visiting! Feel free to ⭐ a repo or drop a message. 😄"
+
+</div>
