@@ -102,10 +102,6 @@ const abhay = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithabhay10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhay10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
 <br>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithabhay10&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithabhay10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-
 </div>
 
 ---
