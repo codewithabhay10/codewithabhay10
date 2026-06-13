@@ -144,14 +144,4 @@ const abhay = {
 
 </div>
 
----
-
-<div align="center">
-
-### ⭐ "First, solve the problem. Then, write the code."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
-<sub>Thanks for visiting! Feel free to ⭐ a repo or drop a message. 😄</sub>
-
-</div>
+### ⭐ "Thanks for visiting! Feel free to ⭐ a repo or drop a message. 😄"
