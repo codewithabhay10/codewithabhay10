@@ -7,7 +7,17 @@
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I%20am%20Abhay%20Madan&fontSize=50&fontColor=ffffff&animation=twinkling&stroke=00f7ff&strokeWidth=2&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20ML%2FAI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
+
+<div align="center">
+
+<a href="https://github.com/codewithabhay10">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=44&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Hey%2C+I+am+Abhay+Madan" alt="Hey, I am Abhay Madan" />
+</a>
+
+**Full-Stack Developer · ML/AI Engineer · Open Source Contributor**
+
+</div>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
