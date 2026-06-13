@@ -7,7 +7,7 @@
 -->
 
 <!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhay%20Madan&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20ML%2FAI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I%20am%20Abhay%20Madan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20ML%2FAI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=56&descSize=18" />
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
