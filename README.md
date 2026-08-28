@@ -12,7 +12,7 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=Google+Summer+of+Code+2026+%40+Jitsi+%F0%9F%8C%9E;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Full-Stack+%2B+ML%2FAI+Developer+%E2%9A%A1;I+love+to+code+and+build+stuff+%F0%9F%9A%80)](https://github.com/codewithabhay10)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=Google+Summer+of+Code+2026+%40+Jitsi+Participant;Smart+India+Hackathon+2025+Winner+%F0%9F%8F%86;Full-Stack+Developer+%7C+ML%2FAI+Engineer;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Building+impactful+AI+%2B+Web+products)](https://git.io/typing-svg)
 
 <!-- ===================== TOP BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=codewithabhay10&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
@@ -38,9 +38,9 @@
 <br>
 <br>
 
-> 🌞 **Selected for Google Summer of Code 2026** to architect **native multi-screen support for Jitsi Meet** — building a secondary-window rendering pipeline with React Portals + a shared Redux store that reuses a single WebRTC session (no duplicate participants, no 2× bandwidth).
+> 🌞 **Selected for Google Summer of Code 2026** to architect **native multi-screen support for Jitsi Meet** — building a secondary-window rendering pipeline with React Portals + a shared Redux/WebRTC state model.
 >
-> 🏆 **Winner of Smart India Hackathon 2025** — a national-level hackathon by the Government of India — for **Sahay**, a multilingual RAG welfare-scheme assistant with a forged-certificate detection engine and a full PM-AJAY fund-governance portal.
+> 🏆 **Winner of Smart India Hackathon 2025** — a national-level hackathon by the Government of India — for **Sahay**, a multilingual RAG welfare-scheme assistant with a forged-certificate detection pipeline.
 
 ---
 
@@ -99,8 +99,8 @@ const abhay = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithabhay10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhay10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithabhay10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Abhay's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhay10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top languages used by Abhay" />
 <br>
 </div>
 
