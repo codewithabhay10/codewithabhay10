@@ -99,9 +99,9 @@ const abhay = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithabhay10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Abhay's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhay10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" alt="Top languages used by Abhay" />
-<br>
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithabhay10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&v=20260828)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhay10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&v=20260828)
+
 </div>
 
 ---
